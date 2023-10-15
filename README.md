@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 live demo at : https://pa-m0.github.io/react-product-page/
+
+![image](https://github.com/PA-M0/react-product-page/assets/108547105/e195e6c9-76f9-4363-82c8-048fd9c8e9e3)
+
 ### !!! whatch out !!!
 after starting the react app you must to search '/products/id', it means every id related to a uniuqe product.
 ## Available Scripts
