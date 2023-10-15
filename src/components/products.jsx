@@ -53,7 +53,7 @@ const Product = () => {
                             {/* eslint-disable-next-line jsx-a11y/img-redundant-alt */}
                             <img src={imgURL} id="image_preview" className="w-full h-full rounded object-cover"
                                    alt="Product Image"/>
-                                <div className="flex flex-row mt-4">
+                                <div className="flex flex-row w-[20%] mt-4">
                                     <img id="image_preview_1"  className="morePic w-full h-full rounded-lg object-cover mx-2 cursor-pointer"
                                           src={imgURL}   alt=""/>
                                     <img id="image_preview_2" className="morePic w-full h-full rounded-lg object-cover mx-2 cursor-pointer"
