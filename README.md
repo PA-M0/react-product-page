@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+live demo at : https://pa-m0.github.io/react-product-page/
 
 ## Available Scripts
 
