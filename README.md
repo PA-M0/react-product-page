@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+live demo at : https://pa-m0.github.io/react-product-page/
+### !!! whatch out !!!
+after starting the react app you must to search '/products/id', it means rvery id related to a uniuqe product.
 ## Available Scripts
 
 In the project directory, you can run:
